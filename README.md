@@ -1,6 +1,6 @@
 # Rooting-BGW210-700
 Rooting BGW210-700
-
+ 
 Barring any network exploit being published and/or subsequently patched, here's a guide to physically root and extract certs from the demon spawn aka BGW210 without desoldering any flash chips and ruining the unit:
 
 Needed equipment:
